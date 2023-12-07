@@ -1,0 +1,23 @@
+@media (max-width: 500px) {
+
+    .socials{
+        display: none;
+    }
+    .nav-bar{
+        padding-left: 2em;
+    }
+    .container{
+        padding: 0;
+    }
+    
+    .Certificates-container{
+        display: flex;
+        flex-direction: column;
+    }
+    .soft-skills-list{
+        flex-direction: column;
+    }
+    .section-projects .container ul {
+        margin: 0;
+    }
+}
